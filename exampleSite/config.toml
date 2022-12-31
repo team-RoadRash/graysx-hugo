@@ -1,7 +1,7 @@
 baseURL = 'http://example.org/'
 languageCode = 'en-us'
 theme = 'graysx'
-title = 'Example Graysx Site'
+title = 'Embedded Systems'
 
 ## Site Settings
 [params]
@@ -11,7 +11,7 @@ favicon = "assets/favicon.png"
 # Info
 address = "123 Arch B1W, GNU/Linux"
 email = "hello@graysx.com"
-phone = "123456"
+phone = "(929) 613-7802"
 
 # Socials
 
