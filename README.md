@@ -22,7 +22,3 @@ hugo new site example && cd example
 ```sh
 git clone https://github.com/akatiggerx04/graysx-hugo/ && mv graysx-hugo themes/graysx && cp -r themes/graysx/exampleSite/* .
 ```
-
-## Credits
-
-This theme is forked and ported to Hugo from: https://github.com/startbootstrap/startbootstrap-grayscale.
